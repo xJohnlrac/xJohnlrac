@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xJohnlrac
+- 👋 Hi, I’m @xJC2
 - 👀 I’m interested in Site Reliability Engineering
 - 🌱 I’m currently learning CI/CD
 - 💞️ I’m looking to collaborate on cool projects
