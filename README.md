@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xJohnlrac
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning React and NextJS
+- 👀 I’m interested in Site Reliability Engineering
+- 🌱 I’m currently learning CI/CD
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 If you have an idea, message me here: xJohnlrac@gmail.com
 
